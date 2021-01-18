@@ -1040,6 +1040,8 @@ MonoBehaviour:
     type: 3}
   goldeggPrefab: {fileID: 6045021947185766989, guid: 1e07178d607f73c4fbf89eccee8fbc75,
     type: 3}
+  spikePrefab: {fileID: 3296916182690131553, guid: e9bed2b64ea0e3849a1bd5bc64cdd49b,
+    type: 3}
   tailSprite: {fileID: 21300000, guid: 5958149696f69c34aa0e6311df39e76f, type: 3}
   bodySprite: {fileID: 21300000, guid: f86fc3a095e18054dac5b0c3dfc28f16, type: 3}
   snakeHead: {fileID: 557440672}
